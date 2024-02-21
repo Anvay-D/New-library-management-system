@@ -9,7 +9,7 @@ The project titled Library Management System is Library management software for 
 
 2. Open XAMPP Control panal and start [apache] and [mysql] .
 
-3. Download project from github(https://github.com/Anvay-D/Library-Management-System) 
+3. Download project from github(https://github.com/Anvay-D/New-library-management-system) 
     
 4. Extract files in C:\\xampp\htdocs\.
 
